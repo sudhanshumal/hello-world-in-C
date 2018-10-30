@@ -1,0 +1,9 @@
+#include<stdio.h>
+inline void print()
+{
+    printf("hello world!");
+}
+int main(){
+     print();
+     return 0;
+}
